@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/joaopaulop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulop&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulop&theme=tokyonight)
+
 
 </div>
