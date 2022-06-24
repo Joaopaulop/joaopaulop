@@ -1,7 +1,8 @@
 ### <H1>Olá! Sou o João Paulo</H1>
-
+<h3>
 ### - 🌱 Atualmente estou aprendendo desenvolvimento mobile com o framework Kivy
 ### - 💻 Atualmente estou desenvolvendo nas linguagens C e Python
+</h3>
 
 <!--
 **Joaopaulop/joaopaulop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
