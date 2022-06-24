@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/joaopaulop">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopaulop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulop&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopauloptheme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulop&langs_count=10&include_all_commits=true&count_private=true"/>
 </div>
