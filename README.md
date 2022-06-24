@@ -1,7 +1,7 @@
-### <H1>Olá! Sou o João Paulo</H1>
+### <H2>Olá! Sou o João Paulo</H2>
 <h4>
-- 🌱 Atualmente estou aprendendo desenvolvimento mobile com o framework Kivy</br>
-- 💻 Atualmente estou desenvolvendo nas linguagens C e Python
+-  🌱  Atualmente estou aprendendo desenvolvimento mobile com o framework Kivy </br> 
+-  💻  Atualmente estou desenvolvendo nas linguagens C e Python
 </h4>
 
 <!--
