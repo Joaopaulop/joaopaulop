@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/joaopaulop">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopaulop&include_all_commits=true&count_private=true&theme=tokyonight"/>
   </br>
-  <img width="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulop&langs_count=10&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulop&langs_count=10&include_all_commits=true&count_private=true&theme=tokyonight"/>
 </div>
