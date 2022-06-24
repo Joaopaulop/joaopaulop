@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/joaopaulop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <gif width="180em"  src="https://ionicabizau.github.io/github-profile-languages/api.html?joaopaulop"></gif>
+  <frame width="180em"  src="https://ionicabizau.github.io/github-profile-languages/api.html?joaopaulop"></frame>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulop&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 
