@@ -1,4 +1,7 @@
-### Olá! Sou o João Paulo
+### <H1>Olá! Sou o João Paulo</H1>
+
+### - 🌱 Atualmente estou aprendendo desenvolvimento mobile KivyMD e Python
+###
 
 <!--
 **Joaopaulop/joaopaulop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
