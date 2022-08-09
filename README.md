@@ -1,7 +1,7 @@
 ### <H1>Olá! Sou o João Paulo</H1>
 <h3>
--  🌱  Atualmente estou aprendendo desenvolvimento mobile na linguagem Python com o framework Kivy </br> 
--  💻  Atualmente estou desenvolvendo nas linguagens C e Python
+-  🌱  Atualmente estou aprendendo desenvolvimento mobile na linguagem Dart com o framework Flutter. </br> 
+-  💻  Atualmente estou desenvolvendo nas linguagens C, Python e Dart.
 </h3>
 
 </br>
